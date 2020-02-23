@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /include/ajax/
+
+Sitemap: http://www.alicanipolgunlu.com/sitemap.xml
+
+
